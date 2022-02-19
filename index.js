@@ -6,6 +6,10 @@ app.get('/', (req, res) => {
     res.send("hello this is from server") ;
 })
 
+app.get('/working', (req, res) => {
+    res.send("hooray!!! working and we are testing new route") ;
+})
+
 
 const port = process.env.PORT || 3000 ;
 
