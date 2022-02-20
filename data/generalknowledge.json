@@ -173,5 +173,293 @@
         "option3" : "Defence Research and Development Laboratory", 
         "option4" : "None of the above", 
         "answer" : "C"
+    },
+    {
+        "statement" : "Tripitakas are sacred books of " ,
+        "option1" : "Hindus" ,
+        "option2" : "Buddhists" ,
+        "option3" : "Jains" , 
+        "option4" : "None of the above" ,
+        "answer" : "B"
+    },
+    {
+        "statement" : "Under an agreement with which of the following countries did Subhas Chandra Bose organize the Indian soldiers, taken as prisoners by the Axis Powers, into the Azad Hind Fauj?" ,
+        "option1" : "Germany" ,
+        "option2" : "Japan" ,
+        "option3" : "China" , 
+        "option4" : "Italy" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "The treaty of Mangolore was signed between" ,
+        "option1" : "Haidar Ali and the Zamorin of Calicut" ,
+        "option2" : "the English East India Company and Haidar Ali" ,
+        "option3" : "the French East India Company and Tipu Sultan" , 
+        "option4" : "the English East India Company and Tipu Sultan" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "To which professions earlier leaders who struggled for freedom of India mainly belonged?" ,
+        "option1" : "Journalists" ,
+        "option2" : "Lawyers" ,
+        "option3" : "Teachers" , 
+        "option4" : "All of the above" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "To which of the following dynasties did King Bhoja, a great patron of literature and art, belong?" ,
+        "option1" : "Karkota" ,
+        "option2" : "Karkota" ,
+        "option3" : "Paramara" , 
+        "option4" : "Gurjara Pratihara" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "To which king belongs the Lion capital at Sarnath?" ,
+        "option1" : "Ashoka" ,
+        "option2" : "Kanishka" ,
+        "option3" : "Chandragupta" , 
+        "option4" : "Kanishka" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The percentage of irrigated land in India is about" ,
+        "option1" : "65" ,
+        "option2" : "45" ,
+        "option3" : "25" , 
+        "option4" : "35" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "The pass located at the southern end of the Nilgiri Hills in south India is called" ,
+        "option1" : "the Palghat gap" ,
+        "option2" : "the Bolan pass" ,
+        "option3" : "the Bhorghat pass" , 
+        "option4" : "the Thalgat pass" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The principal copper deposits of India lie in which of the following places?" ,
+        "option1" : "Anantapur in Andhra Pradesh" ,
+        "option2" : "Hazaribag and Singbhum of Bihar" ,
+        "option3" : "Siwaliks in Uttar Pradesh and in Karnataka" , 
+        "option4" : "Khetri and Daribo areas of Rajasthan" ,
+        "answer" : "B"
+    },
+    {
+        "statement" : "The percentage of earth surface covered by India is" ,
+        "option1" : "5.4" ,
+        "option2" : "4.4" ,
+        "option3" : "3.4" , 
+        "option4" : "2.4" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The India's highest annual rainfall is reported at" ,
+        "option1" : "Chamba, Himachal Pradesh" ,
+        "option2" : "Mawsynram, Meghalaya" ,
+        "option3" : "Churu, Rajasthan" , 
+        "option4" : "Namchi, Sikkim" ,
+        "answer" : "B"
+    },
+    {
+        "statement" : "The refineries are Mathura, Digboi and Panipat are set up by" ,
+        "option1" : "Crude Distillation unit of Madras Refineries Ltd." ,
+        "option2" : "Bharat Petroleum Corporation Ltd." ,
+        "option3" : "Hindustan Petroleum Corporation Ltd." , 
+        "option4" : "Indian Oil Corporation Ltd." ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "What is the predominant type of Indian agriculture" ,
+        "option1" : "subsistence agriculture" ,
+        "option2" : "plantation agriculture" ,
+        "option3" : "Extensive agriculture" , 
+        "option4" : "Commercial agriculture" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The Radcliffe line is boundary between" ,
+        "option1" : "India and Pakistan" ,
+        "option2" : "India and China" ,
+        "option3" : "India and Myanmar" , 
+        "option4" : "India and Afghanistan" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "Which of the following has a potential for harnessing of tidal energy in India" ,
+        "option1" : "Chilika lake" ,
+        "option2" : "Backwaters of Kerela" ,
+        "option3" : "Gulf of Mannar" , 
+        "option4" : "Gulf of Cambay" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "The state having the largest forest cover in India" ,
+        "option1" : "Assam" ,
+        "option2" : "Madhya Pradesh" ,
+        "option3" : "Haryana" , 
+        "option4" : "Arunachal Pradesh" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The year ____ is called a Great Divide in the demographic history of India." ,
+        "option1" : "1951" ,
+        "option2" : "1941" ,
+        "option3" : "1921" , 
+        "option4" : "1901" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The only private sector refinery set up by the Reliance Petroleum Ltd. is located at" ,
+        "option1" : "Chennai" ,
+        "option2" : "Mumbai" ,
+        "option3" : "Jamnagar" , 
+        "option4" : "Guwahati" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The only state in India that produces Saffron is" ,
+        "option1" : "Meghalaya" ,
+        "option2" : "Jammu and Kashmir" ,
+        "option3" : "Himachal Pradesh" , 
+        "option4" : "Assam" ,
+        "answer" : "B"
+    },
+    {
+        "statement" : "Three important rivers of the Indian subcontinent have theri sources near the Mansarover Lake in the Great Himalayas. These rivers are " ,
+        "option1" : "Indus, Jhelum and Sutlej" ,
+        "option2" : "Brahmaputra, Sutlej and Yamuna" ,
+        "option3" : "Brahmaputra, Indus and Sutlej" , 
+        "option4" : "Jhelum, Sutlej and Yamuna" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The zonal soil type of peninsular India belong to" ,
+        "option1" : "older alluvium" ,
+        "option2" : "black soils" ,
+        "option3" : "yellow soils" , 
+        "option4" : "red soils" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "Which of the following food grain crops occupies the largest part of the cropped area in India?" ,
+        "option1" : "Wheat" ,
+        "option2" : "Rice" ,
+        "option3" : "Jowar and bajra" , 
+        "option4" : "Barley and maize" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The number of major languages, recognized in the Indian Union as official language, are" ,
+        "option1" : "9" ,
+        "option2" : "12" ,
+        "option3" : "22" , 
+        "option4" : "15" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "Which of the following groups of states has teh largest deposits of iron ore?" ,
+        "option1" : "West Bengal and Assam" ,
+        "option2" : "Madhya Pradesh and Maharashtra" ,
+        "option3" : "Bihar and Orissa" , 
+        "option4" : "Andhra Pradesh and Karnataka" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "which atomic power station in India is built completely indigenously?" ,
+        "option1" : "Tarapore" ,
+        "option2" : "Rawat Bhata" ,
+        "option3" : "Narora" , 
+        "option4" : "Kalpakkam" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "The south-west monsoon contributes _____ of the total rain in india" ,
+        "option1" : "100%" ,
+        "option2" : "22%" ,
+        "option3" : "50%" , 
+        "option4" : "86%" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The Shimla Convention is an agreement that sets" ,
+        "option1" : "boundary between India and Tibet" ,
+        "option2" : "Shimla as a tourist spot" ,
+        "option3" : "Shimla as the capital of Himachal Pradesh" , 
+        "option4" : "None of the above" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The oldest oil field in India is the ____ field, in ____" ,
+        "option1" : "Digboi, Assam" ,
+        "option2" : "Nawagam, Gujarat" ,
+        "option3" : "Bombay High, Maharashtra" , 
+        "option4" : "Anleshwar, Gujarat" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The oldest mountains in India are" ,
+        "option1" : "Nilgiri hills" ,
+        "option2" : "Satpuras" ,
+        "option3" : "Vindhyas" , 
+        "option4" : "Aravalis" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "The watershed between India and Myanmar is formed by" ,
+        "option1" : "the Naga hills" ,
+        "option2" : "the Garo hills" ,
+        "option3" : "Khasi hills" , 
+        "option4" : "the Jaintia hills" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "The percentage of India's total population employed in agriculture is nearly" ,
+        "option1" : "70%" ,
+        "option2" : "60%" ,
+        "option3" : "50%" , 
+        "option4" : "40%" ,
+        "answer" : "A"
+    },
+    {
+        "statement" : "Which of the following areas or regions is most prone to earthquakes?" ,
+        "option1" : "Western ghats" ,
+        "option2" : "Plains of norhtern India" ,
+        "option3" : "Deccan plateau" , 
+        "option4" : "Ganga-Brahmaputra valley" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "Which of the following crops is regarded as a plantation crop?" ,
+        "option1" : "Rice" ,
+        "option2" : "Sugarcane" ,
+        "option3" : "Cotton" , 
+        "option4" : "Coconut" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "Which of the following countries leads in the production of aliminium and its products in the world?" ,
+        "option1" : "Australia" ,
+        "option2" : "France" ,
+        "option3" : "India" , 
+        "option4" : "USA" ,
+        "answer" : "D"
+    },
+    {
+        "statement" : "The natural region which holds the Indian subcontinent is" ,
+        "option1" : "mediterranean" ,
+        "option2" : "monsoon" ,
+        "option3" : "hot deset" , 
+        "option4" : "equatorial climate and change region" ,
+        "answer" : "C"
+    },
+    {
+        "statement" : "The most ideal region for cultivation of cotton in India is" ,
+        "option1" : "the Rann of Kutch" ,
+        "option2" : "the Deccan plateau" ,
+        "option3" : "the Indo-Gangetci valley" , 
+        "option4" : "the Brahmaputra valley" ,
+        "answer" : "B"
     }
 ]

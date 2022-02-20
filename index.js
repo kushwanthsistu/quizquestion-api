@@ -1,5 +1,8 @@
 const express = require('express') ;
 const gkque = require('./data/generalknowledge.json') ;
+const bioque = require('./data/biology.json') ;
+const cheque = require('./data/chemistry.json') ;
+const phyque = require('./data/physics.json') ;
 
 const app = express() ;
 
@@ -16,6 +19,27 @@ app.get('/generalknowledge', (req, res) => {
     let x = Math.random() ;
     x = Math.floor(x * l) ;
     res.json(gkque[x]) ;
+})
+
+app.get('/biology', (req, res) => {
+    const l = bioque.length ;
+    let x = Math.random() ;
+    x = Math.floor(x * l) ;
+    res.json(bioque[x]) ;
+})
+
+app.get('/physics', (req, res) => {
+    const l = phyque.length ;
+    let x = Math.random() ;
+    x = Math.floor(x * l) ;
+    res.json(phyque[x]) ;
+})
+
+app.get('/chemistry', (req, res) => {
+    const l = cheque.length ;
+    let x = Math.random() ;
+    x = Math.floor(x * l) ;
+    res.json(cheque[x]) ;
 })
 
 const port = process.env.PORT || 3000 ;

@@ -1,0 +1,474 @@
+[
+    {
+        "statement" : "Ordinary table salt is sodium salt. What is baking soda?",
+        "option1" : "Sodium bicarbonate",
+        "option2" : "Potassium hydroxide",
+        "option3" : "Potassium carbonate",
+        "option4" : "Potassium chloride",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Ozone hole refers to",
+        "option1" : "increase in the thickness of ozone layer in troposphere",
+        "option2" : "decrease in thickness of ozone layer in stratosphere",
+        "option3" : "decrease in the ozone layer in troposphere",
+        "option4" : "hole in ozone layer",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Pine, fir, spruce, cedar, larch and cypress are the famous timber-yielding plants of which several also occur widely in the hilly regions of India. All these belong to",
+        "option1" : "dicotyledons",
+        "option2" : "monocotyledons",
+        "option3" : "gymnosperms",
+        "option4" : "angiosperms",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Pollination is best defined as",
+        "option1" : "visiting flowers by insects",
+        "option2" : "growth of pollen tube in ovule",
+        "option3" : "germination of pollen grains",
+        "option4" : "transfer of pollen form anther to stigma",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Plants receive their nutrients mainly from",
+        "option1" : "soil",
+        "option2" : "light",
+        "option3" : "atmosphere",
+        "option4" : "chlorophyll",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Movement of cell aganist concentration gradient is called",
+        "option1" : "passive transport",
+        "option2" : "diffusion",
+        "option3" : "active transport",
+        "option4" : "osmosis",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Photosynthesis generally takes place in which parts of the plant?",
+        "option1" : "Bark and leaf",
+        "option2" : "Roots and chloroplast bearing parts",
+        "option3" : "stem and leaf",
+        "option4" : "leaf and other chloroplast bearing parts",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Plants synthesis protein from",
+        "option1" : "fatty acids",
+        "option2" : "amino acids",
+        "option3" : "sugar",
+        "option4" : "starch",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Plants absorb dissolved nitrates from soil and convert them into",
+        "option1" : "proteins",
+        "option2" : "ammonia",
+        "option3" : "urea",
+        "option4" : "free nitrogen",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Out of 900 reported species of living gymnosperms, conifers are represented by about 500 species, About 2,50,000 species of angiosperms (flowering plants) have also been reported in the world. The vast and dominant woodlands in Europe, Asia, North America and mountains such as Himalayas are wooded with",
+        "option1" : "angiosperms and all gymnosperms except conifers",
+        "option2" : "only conifers",
+        "option3" : "only angiosperms",
+        "option4" : "all gymnosperms, except conifers",
+        "answer" : "B"
+    },
+    {
+        "statement" : "One of the following is not a function of bones",
+        "option1" : "Production of blood corpuscles",
+        "option2" : "Secretion of hormones for calcium regulation in blood and bones",
+        "option3" : "Protection of vital organs",
+        "option4" : "Place for muscle attachment",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Plant absorb most part of water needed by them through their",
+        "option1" : "zone of elongation",
+        "option2" : "root hairs",
+        "option3" : "growing point",
+        "option4" : "embryonic zone",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Photo-oxidation is ",
+        "option1" : "photolysis",
+        "option2" : "light and oxygen induced breakdown",
+        "option3" : "photorespiration",
+        "option4" : "all of the above",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Process of cell division can take place by",
+        "option1" : "mitosis",
+        "option2" : "heterosis",
+        "option3" : "fusion",
+        "option4" : "none of the above",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Most highly intelligent mammals are",
+        "option1" : "kangaroos",
+        "option2" : "elephants",
+        "option3" : "dolphins",
+        "option4" : "whales",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Plant development is influenced by",
+        "option1" : "quality, quantity and duration of light",
+        "option2" : "quality and duration of light",
+        "option3" : "quality and quantity of light",
+        "option4" : "quality of light",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Prokaryotic cells lack",
+        "option1" : "membrane bound by organelles",
+        "option2" : "nucleolus",
+        "option3" : "nuclear membrane",
+        "option4" : "all of these",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Photosynthesis takes place faster in ",
+        "option1" : "darkness",
+        "option2" : "red light",
+        "option3" : "white light",
+        "option4" : "yellow light",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Nucleus, the genetic material containing rounded body in each cell, was first discovered in 1831 by",
+        "option1" : "Theodore Schwann",
+        "option2" : "Rudolf Virchow",
+        "option3" : "Robert Brown",
+        "option4" : "Robery Hooke",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Primary phloem develops from",
+        "option1" : "provascular tissue",
+        "option2" : "extrastelar cambium",
+        "option3" : "protoderm",
+        "option4" : "lateral meristem",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Other that spreading malaria, anopheles mosquitoes also vectors of",
+        "option1" : "yellow fever",
+        "option2" : "encephalitis",
+        "option3" : "filariasis",
+        "option4" : "dengue fever",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Plants that grow in saline water are called",
+        "option1" : "thallophytes",
+        "option2" : "mesophytes",
+        "option3" : "hydrophytes",
+        "option4" : "halophytes",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Pyorrhoea is a disease of the",
+        "option1" : "lungs",
+        "option2" : "heart",
+        "option3" : "gums",
+        "option4" : "nose",
+        "answer" : "C"
+    },
+    {
+        "statement" : "O2 released in the process of photosynthesis comes from",
+        "option1" : "pyruvic acid",
+        "option2" : "sugar",
+        "option3" : "water",
+        "option4" : "CO2",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Placenta is the structure formed ",
+        "option1" : "by fusion of germ layers",
+        "option2" : "by the union of foetal and uterine tissue",
+        "option3" : "by goetus only",
+        "option4" : "None of these",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Plants hormone that induces cell division is",
+        "option1" : "domins",
+        "option2" : "kinins",
+        "option3" : "gibberellins",
+        "option4" : "auxins",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Neurospora is used as genetic material because",
+        "option1" : "is a diploid fungus",
+        "option2" : "meiotic products are linearly arranged in the form of ordered triplets",
+        "option3" : "the product of single meiosis can be easily analysed",
+        "option4" : "it has short life cycle of 10 days",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Phloem is a tissue found in ",
+        "option1" : "mammals",
+        "option2" : "insects",
+        "option3" : "plants",
+        "option4" : "reproductive organs of animals",
+        "answer" : "C"
+    },
+    {
+        "statement" : "N2 content is kept constant in the biosphere due to",
+        "option1" : "absorption of N2",
+        "option2" : "nitrogen cycle",
+        "option3" : "industrial pollution",
+        "option4" : "N2 fixation",
+        "answer" : "B"
+    },
+    {
+        "statement" : "out of proteins, lipids and carbohydrates present in a cell membrane, what is true?",
+        "option1" : "lipids are maximum",
+        "option2" : "carbohydrates are minimum",
+        "option3" : "carbohydrates are maximum",
+        "option4" : "all three are in equal proportion",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Potato is a modified form (outgrowth) of",
+        "option1" : "leaf",
+        "option2" : "fruit",
+        "option3" : "stem",
+        "option4" : "root",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Of the following taxonomic categories which is the most inclusive (i.e, is the highest in the hierarchy)?",
+        "option1" : "Genus",
+        "option2" : "Class",
+        "option3" : "Subspecies",
+        "option4" : "Order",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Prothrombin which helps in clotting of blood is released by",
+        "option1" : "blood platelets",
+        "option2" : "monocytes",
+        "option3" : "erythrocytes",
+        "option4" : "lymphocytes",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Myopia is connected with",
+        "option1" : "ears",
+        "option2" : "eyes",
+        "option3" : "lungs",
+        "option4" : "None of these",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Most of the red, blue and purple colours of plants are due to pigment called",
+        "option1" : "xanthophylls",
+        "option2" : "chlorophyll",
+        "option3" : "carotene",
+        "option4" : "anthocyanin",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Plants developing in dry conditions are",
+        "option1" : "hydrophytes",
+        "option2" : "lithophytes",
+        "option3" : "mesophytes",
+        "option4" : "xerophytes",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Our skin, when exposed to excess sunlight, become dark. this is because our skin pigments called",
+        "option1" : "Xanthophyll",
+        "option2" : "carotene",
+        "option3" : "melanin",
+        "option4" : "flavoxanthin",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Ramapithecus and Cro-Magnon man are considered",
+        "option1" : "ancestors of lion",
+        "option2" : "ancestors of modern man",
+        "option3" : "ancestors of monkey",
+        "option4" : "None of the above",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Normal adult human male has",
+        "option1" : "10 gram of haemoglobin/100 gram of blood",
+        "option2" : "14 gram of haemoglobin/100 gram of blood",
+        "option3" : "18 gram of haemoglobin/100 gram of blood",
+        "option4" : "24 gram of haemoglobin/100 gram of blood",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Plants wilt due to the excess of ",
+        "option1" : "absorption",
+        "option2" : "transpiration",
+        "option3" : "photosynthesis",
+        "option4" : "None of the above",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Monotremes are unique mammals because they",
+        "option1" : "lay eggs",
+        "option2" : "secret milk in a pouch",
+        "option3" : "give birth to live young",
+        "option4" : "posses hair",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Poison glands of snakes are homologous to",
+        "option1" : "salivary glands of vertebrates",
+        "option2" : "sebaceous glands of mammals",
+        "option3" : "stings of rays",
+        "option4" : "electric organs of fishes",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Radical vascular bundles are those in which",
+        "option1" : "xylem and phloem occur on the different radii",
+        "option2" : "xylem and phloem occur on the same radius",
+        "option3" : "phloem is surrounded by xylem",
+        "option4" : "xylem is surrounded by phloem",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Plant bends towards the source of light on account of the movement of curvature known as",
+        "option1" : "phototropism",
+        "option2" : "chemotropism",
+        "option3" : "thigmotropism",
+        "option4" : "geotropism",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Plant have ____ while animals lack it.",
+        "option1" : "fat",
+        "option2" : "protein",
+        "option3" : "cellulose",
+        "option4" : "starch",
+        "answer" : "c"
+    },
+    {
+        "statement" : "Osmosis is the flow of solution from higher concentration to a solution of lower concentration through a semi permeable membrane. what is incorrect in this statement?",
+        "option1" : "The flow of solution is not possible through semi permeable membrane",
+        "option2" : "character of semi permeable memebrane is not given",
+        "option3" : "Exact concentration solution is not given",
+        "option4" : "all are incorrect",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Photosynthesis is a process",
+        "option1" : "reductive, endergonic and anabolic",
+        "option2" : "reductive, endergonic and catabolic",
+        "option3" : "reductive and catabolic",
+        "option4" : "reductive and exergonic",
+        "answer" : "A"
+    },
+    {
+        "statement" : "On which of the following plants did Gregor Mendal perform his classical experiments",
+        "option1" : "Wheat",
+        "option2" : "Pea",
+        "option3" : "Maize",
+        "option4" : "Gram",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Pigmentation of skin is due to",
+        "option1" : "melanocytes",
+        "option2" : "leucocytes",
+        "option3" : "monocytes",
+        "option4" : "lymphocytes",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Norepinephine increases",
+        "option1" : "blood pressure",
+        "option2" : "saliva production",
+        "option3" : "urine production",
+        "option4" : "respiration",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Night blindness is caused by lack of which vitamin",
+        "option1" : "vitamin D",
+        "option2" : "vitamin C",
+        "option3" : "vitamin B",
+        "option4" : "vitamin A",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Monocot root differs from dicot root in having",
+        "option1" : "radially arranged vascular bundles",
+        "option2" : "well developed pith",
+        "option3" : "scattered vascular bundles",
+        "option4" : "open vascular bundles",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Radioactivity is a phenomenon of the spontaneous emission of",
+        "option1" : "gamma rays (short wave electromagnetic waves)",
+        "option2" : "protons(alpha particles)",
+        "option3" : "electrons(beta particles)",
+        "option4" : "All of the above",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Organic substances which, in very small amounts, control growth and development called",
+        "option1" : "enzymes",
+        "option2" : "vitamins",
+        "option3" : "hormones",
+        "option4" : "None of the above",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Our major foods, fibres,spices, fruits and beverages crops are",
+        "option1" : "bryophytes",
+        "option2" : "pteridophytes",
+        "option3" : "gymnosperms plants",
+        "option4" : "flowering plants",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Movement due to light are shown by",
+        "option1" : "all the plants",
+        "option2" : "all land plants",
+        "option3" : "lower plants",
+        "option4" : "flowering plants",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Outer covering of virus made up of protein is",
+        "option1" : "viriod",
+        "option2" : "virion",
+        "option3" : "coat",
+        "option4" : "capsid",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Radish is a ",
+        "option1" : "bulb",
+        "option2" : "conn",
+        "option3" : "modified root",
+        "option4" : "tuber",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Mumps is a disease caused by",
+        "option1" : "bacterium",
+        "option2" : "virus",
+        "option3" : "fungus",
+        "option4" : "none of the above",
+        "answer" : "B"
+    }
+]

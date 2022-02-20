@@ -1,0 +1,458 @@
+[
+    {
+        "statement" : "Radiocarbon is produced in the atmosphere as a result of",
+        "option1" : "lightning discharge in atmosphere",
+        "option2" : "action of solar radiations particularly cosmic rays on carbon dioxide present in the atmosphere",
+        "option3" : "action of ultraviolet light from the sun on atmospheric oxygen",
+        "option4" : "collision between fast neutrons and nitrogen nuclei present in the atmosphere",
+        "answer" : "D"
+    },
+    {
+        "statement" : "It is easier to roll a stone up a sloping road than to lift it vertical upwards because",
+        "option1" : "work done in rolling a stone is less than in lifting it",
+        "option2" : "work done in both is same but the rate of doing work is less in rolling",
+        "option3" : "work done in lifting the stone is equal to rolling it",
+        "option4" : "work done in rolling is more than in lifting",
+        "answer" : "A"
+    },
+    {
+        "statement" : "The absorption of ink by blotting paper involves",
+        "option1" : "siphon action",
+        "option2" : "diffusion of ink through the blotting",
+        "option3" : "capillary action phenomenon",
+        "option4" : "viscosity of ink",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Siphon will fail to work if",
+        "option1" : "the temperature of the liquids in the two vessels are the same",
+        "option2" : "both its limbs are of unequal length",
+        "option3" : "the level of the liquid in the two vessels are at the same height",
+        "option4" : "the densities of the liquid in the two vessels are equal",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Large transformers, when used for some time, become very hot and are cooled by circulating oil. The heating of the transformer is due to",
+        "option1" : "intense sunlight at noon",
+        "option2" : "both the heating effect of current and hysteresis loss",
+        "option3" : "hysteresis loss alone",
+        "option4" : "the heating effect of current alone",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Nuclear sizes are express in a unit named",
+        "option1" : "tesla",
+        "option2" : "newton",
+        "option3" : "angstrom",
+        "option4" : "fermi",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Light year is a unit of",
+        "option1" : "intensity of light",
+        "option2" : "light",
+        "option3" : "distance",
+        "option4" : "time",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Mirage is due to",
+        "option1" : "equal heating of different parts of the atmosphere",
+        "option2" : "depletion of ozone layer in the atmosphere",
+        "option3" : "magnetic disturbances in the atmosphere",
+        "option4" : "unequal heating of different parts of the atmosphere",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Light from sun reached earth in nearly",
+        "option1" : "16 minutes",
+        "option2" : "8 minutes",
+        "option3" : "4 minutes",
+        "option4" : "2 minutes",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Stars appears to move from east to west because",
+        "option1" : "the background of the stars moves from west to east",
+        "option2" : "the earth rotates from east to west",
+        "option3" : "the earth rotates from west to east",
+        "option4" : "all stars move from west to east",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Pa(Pascal) is the unit of",
+        "option1" : "conductivity",
+        "option2" : "frequenct",
+        "option3" : "pressure",
+        "option4" : "thrust",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Planets don't wrinkle because",
+        "option1" : "they are nearer to earth and hence we recieve a greater amount of light and, therefore minor variations in the intensity are not noticeable",
+        "option2" : "they emit light of a constant intensity",
+        "option3" : "their distance from the earth does not change with time",
+        "option4" : "they are very far away from earth resulting in decrease in intensity of light",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Metals are good conductors of electricity because",
+        "option1" : "they have high melting point",
+        "option2" : "they contain free electrons",
+        "option3" : "the atoms are lightly packed",
+        "option4" : "All of the above",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Let a thin capillary tube be replaced with another tube of insufficient length then, we find water",
+        "option1" : "change its meniscus",
+        "option2" : "depressed",
+        "option3" : "will not rise",
+        "option4" : "will overflow",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Out of the following pairs, choose the pair in which the physical quantities do not have identical dimension?",
+        "option1" : "Pressure and Young's modules",
+        "option2" : "Planck's constant and Angular momentum",
+        "option3" : "Impulse and moment of force",
+        "option4" : "Force and rate of change of linear momentum",
+        "answer" : "C"
+    },
+    {
+        "statement" : "If two bodies of different masses, initially at rest, are acted upon by the same force for the same time, then the both bodies acquire the same",
+        "option1" : "Kinetic energy",
+        "option2" : "acceleration",
+        "option3" : "momentum",
+        "option4" : "velocity",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Pick out the scalar quantity",
+        "option1" : "acceleration",
+        "option2" : "velocity",
+        "option3" : "pressure",
+        "option4" : "force",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Rectifiers are used to convert",
+        "option1" : "low voltage to high voltage",
+        "option2" : "high voltage to low voltage",
+        "option3" : "alternating current to direct current",
+        "option4" : "direct current to alternating current",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Sound waves in air are",
+        "option1" : "tranverse",
+        "option2" : "longitudinal",
+        "option3" : "electromagnetic",
+        "option4" : "polarised",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Magnetism at the centre of a bar magnet is",
+        "option1" : "minimum",
+        "option2" : "maximum",
+        "option3" : "zero",
+        "option4" : "minimum or maximum",
+        "answer" : "C"
+    },
+    {
+        "statement" : "It is more difficult to walk on a sandy road than on a concrete road because",
+        "option1" : "the sand is grainy but concrete is smooth",
+        "option2" : "the friction between sand and feet is more than that between concrete and feet",
+        "option3" : "the friction between sand and feet is less than that between concrete and feet",
+        "option4" : "sand is soft and concrete is hard",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Of the following properties of a wave, the one that is independent of the other is its",
+        "option1" : "amplitude",
+        "option2" : "velocity",
+        "option3" : "wavelength",
+        "option4" : "frequency",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Lux is the SI unit of",
+        "option1" : "luminous intensity",
+        "option2" : "luminous flux",
+        "option3" : "luminous efficiency",
+        "option4" : "intensity of illumination",
+        "answer" : "D"
+    },
+    {
+        "statement" : "On a rainy day, small oil films on water show brilliant colors. this is due to",
+        "option1" : "polarization",
+        "option2" : "diffraction",
+        "option3" : "interference",
+        "option4" : "dispersion",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Point A is at a lower electrical potential than point B. An electron between them on the line joining them will",
+        "option1" : "remain at rest",
+        "option2" : "move at right angles to the line joining A and B",
+        "option3" : "move towards B",
+        "option4" : "move towards A",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Materials for rain-proof coats and tents owe their water-proof properties to",
+        "option1" : "elasticity",
+        "option2" : "specific gravity",
+        "option3" : "viscosity",
+        "option4" : "surface tension",
+        "answer" : "D"
+    },
+    {
+        "statement" : "RADAR is used for",
+        "option1" : "detecting and locating the position of objects such as aeroplanes",
+        "option2" : "locating geostationary satelites",
+        "option3" : "receiving a signals in a radio receiver",
+        "option4" : "locating submerged submarines",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Sound of frequency below 20 Hz is called",
+        "option1" : "supersonics",
+        "option2" : "ultrasonics",
+        "option3" : "infrasonics",
+        "option4" : "audio sounds",
+        "answer" : "C"
+    },
+    {
+        "statement" : "On a clean glass plate a drop of water spreads to form a thin layer whereas a drop of mercury remains almost spherical because",
+        "option1" : "mercury is a metal",
+        "option2" : "density of mercury is greater than that of water",
+        "option3" : "cohesion of mercury is greater than its adhesion with glass",
+        "option4" : "cohesion of water is greater than its adhesion with glass",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Suitable impurities are added to a semiconductor depending on its use. This is done in order to",
+        "option1" : "increase its life",
+        "option2" : "enable it to withstand higher voltages",
+        "option3" : "increase its electrical conductivity",
+        "option4" : "increase its electrical resistivity",
+        "answer" : "C"
+    },
+    {
+        "statement" : "It takes much longer to cook food in the hills than in the plains, because",
+        "option1" : "in the hills the atmospheric pressure is lower than that in the plains and therefore water boils at a temperature lower than 100oC causing an increase in cooking time",
+        "option2" : "due to low atmospheric pressure on the hills, the water boils at a temperature higher than 100oC and therefore water takes longer to boil",
+        "option3" : "in the hills the atmospheric density is low and therefore a lot of heat is lost to the atmosphere",
+        "option4" : "in the hills the atmospheric density is low and therefore a lot of heat is lost to the atmosphere",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Inside an aeroplane, flying at a high altitude,",
+        "option1" : "the pressure is the same as that outside",
+        "option2" : "normal atmospheric pressure is maintained by the use of air pumps",
+        "option3" : "the pressure inside is less than the pressure outside",
+        "option4" : "normal humidity and partial vacuum are maintained",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Sound travels with a different speed in media. In what order does the velocity of sound increase in these media?",
+        "option1" : "Water, iron and air",
+        "option2" : "Iron, air and water",
+        "option3" : "Air, water and iron",
+        "option4" : "Iron, water and air",
+        "answer" : "C"
+    },
+    {
+        "statement" : "oil raise up the wick in a lamp. The principle involves",
+        "option1" : "the diffusion of oil through the wick",
+        "option2" : "the liquid state of oil",
+        "option3" : "capillary action phenomenon",
+        "option4" : "volatility of oil",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Superconductors are substances which",
+        "option1" : "conduct electricity at low temperature",
+        "option2" : "offer high resistance to the flow of current",
+        "option3" : "offer no resistance to the flow of electricity",
+        "option4" : "conduct electricity at high temperatures",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Railway tracks are banked on curves",
+        "option1" : "necessary centrifugal force may be obtained from the horizontal component weight of the train",
+        "option2" : "to avoid frictional force between the tracks and wheels",
+        "option3" : "necessary centripetal force may be obtained from the horizontal component of the weight of the train",
+        "option4" : "the train may not fly off in the opposite direction",
+        "answer" : "C"
+    },
+    {
+        "statement" : "On a cold day when a room temperature is 15oC, the metallic cap of a pen becomes much colder than its plastic body, though both are at the same temperature of 15oC, because",
+        "option1" : "metals have higher thermal capacity than plastics",
+        "option2" : "plastics have a lower density than metals",
+        "option3" : "plastics have a lower density than metals",
+        "option4" : "plastics have a higher thermal conductivity than metals",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Intensity of sound at a point is ____ its distance from the source.",
+        "option1" : "directly proportional to",
+        "option2" : "Inversely proportional to",
+        "option3" : "directly proportional to square of",
+        "option4" : "inversely proportional to square of",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Of the four locations mentioned below the highest inside temperature will be attained in the pressure cooker operated with the pressure valve open",
+        "option1" : "at sea level",
+        "option2" : "at the top of Mt. Everest",
+        "option3" : "at a place in a valley below sea level",
+        "option4" : "in an aeroplane flying at a height of 10,000 m with inside pressure maintained at the sea level",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Radio telescopes are better than optical telescopes because",
+        "option1" : "they can detect faint galaxies which no optical telescope can",
+        "option2" : "they can work even in cloudy conditions",
+        "option3" : "they can work during the day and night",
+        "option4" : "they can work during the day and night",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Light Emitting Diodes (LED) is used in fancy electronic devices such as toys emit",
+        "option1" : "X-rays",
+        "option2" : "ultraviolet light",
+        "option3" : "visible light",
+        "option4" : "radio waves",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Out of the following pairs, which one does not have identical dimension?",
+        "option1" : "Moment of inertia and moment of a force",
+        "option2" : "Work and Torque",
+        "option3" : "Angular momentum and Planck's constant",
+        "option4" : "Impulse and Momentum",
+        "answer" : "A"
+    },
+    {
+        "statement" : "Mercury is commonly used as a thermometric fluid rather than water because",
+        "option1" : "specific heat of mercury is less than water",
+        "option2" : "specific heat of mercury is more than water",
+        "option3" : "mercury has greater visibility than water",
+        "option4" : "density of mercury is more than the water",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Optical fibre works on the",
+        "option1" : "principle of refraction",
+        "option2" : "total internal reflection",
+        "option3" : "scattering",
+        "option4" : "interference",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Light from the star, Alpha Centauri, which is nearest to the earth after the sun, reaches the earth in",
+        "option1" : "4.2 seconds",
+        "option2" : "42 seconds",
+        "option3" : "4.2 years",
+        "option4" : "42 years",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Supersonic plane fly with the speed",
+        "option1" : "less than the speed of sound",
+        "option2" : "of sound",
+        "option3" : "greater than the speed of sound",
+        "option4" : "of light",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Mach number is used in connection with the speed of",
+        "option1" : "sound",
+        "option2" : "aircraft",
+        "option3" : "spacecraft",
+        "option4" : "ships",
+        "answer" : "B"
+    },
+    {
+        "statement" : "On a stationary sail boat, air is blown from a fan attached to the boat. The boat",
+        "option1" : "moves in opposite direction in which the air is blown",
+        "option2" : "does not move",
+        "option3" : "moves in the same direction in which air blows",
+        "option4" : "spins around",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Stars which appear single to the naked eye but are double when seen through a telescope are",
+        "option1" : "novas and supernovas",
+        "option2" : "binaries",
+        "option3" : "asteroids",
+        "option4" : "quasars",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Sir C.V. Raman was awarded Nobel Prize for his work connected with which of the following phenomenon of radiation?",
+        "option1" : "Scattering",
+        "option2" : "Diffraction",
+        "option3" : "Interference",
+        "option4" : "Polarization",
+        "answer" : "A"
+    },
+    {
+        "statement" : "In which of the following industries is mica as a raw material?",
+        "option1" : "Cement",
+        "option2" : "Glass and Pottery",
+        "option3" : "Iron and Steel",
+        "option4" : "Electrical",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Radiocarbon dating technique is used to estimate the age of",
+        "option1" : "rocks",
+        "option2" : "monuments",
+        "option3" : "soil",
+        "option4" : "fossils",
+        "answer" : "D"
+    },
+    {
+        "statement" : "Large astronomical telescopes always use as objective",
+        "option1" : "lens",
+        "option2" : "mirror",
+        "option3" : "combinations of lenses",
+        "option4" : "None of the above",
+        "answer" : "C"
+    },
+    {
+        "statement" : "One should not connect a number of electrical appliances to the same power socket because",
+        "option1" : "this can damage the appliances due to overloading",
+        "option2" : "this can damage the domestic wiring due to overloading",
+        "option3" : "this can damage the electrical meter",
+        "option4" : "the appliance will not get full voltage",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Natural radioactivity was discovered by",
+        "option1" : "Marie Curie",
+        "option2" : "Ernest Rutherfor",
+        "option3" : "Henri Becquerel",
+        "option4" : "Enrico Fermi",
+        "answer" : "C"
+    },
+    {
+        "statement" : "Planets are",
+        "option1" : "luminous heavenly bodies revolving around a star",
+        "option2" : "non-luminous heavenly bodies",
+        "option3" : "luminous heavenly bodies that twinkle",
+        "option4" : "luminous heavenly bodies that do not twinkle",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Mica is used in electrical appliances such as electric iron because mica is",
+        "option1" : "a good conductor of heat but a bad conductor of electricity",
+        "option2" : "a bad conductor of heat but a good conductor of electricity",
+        "option3" : "a good conductor of head as well as electricity",
+        "option4" : "a bad conductor of head as well as electricity",
+        "answer" : "A"
+    }
+]
