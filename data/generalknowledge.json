@@ -1,0 +1,177 @@
+[
+    {
+        "statement" : "Grand Central Terminal, Park Avenue, New York is the world's" ,
+        "option1" : "largest railway station",
+        "option2" : "highest railway station", 
+        "option3" : "longest railway station",
+        "option4" : "none of the above",
+        "answer" : "A"
+    }, 
+    {
+        "statement" : "Entomology is the science that studies", 
+        "option1" : "Behavior of human beings", 
+        "option2" : "Insects", 
+        "option3" : "The origin and history of technical scientific terms",
+        "answer" : "B"
+    },
+    {
+        "statement" : "Garmapani sanctuary is located at", 
+        "option1" : "Junagarh, Gujarat",
+        "option2" : "Diphu, Assam", 
+        "option3" : "Kohima, Nagaland", 
+        "option4" : "Gangtok, Sikkim", 
+        "answer" :  "B"
+    }, 
+    {
+        "statement" : "For which of the following disciplines is Nobel Prize awarded?" ,
+        "option1" : "Physics and Chemistry", 
+        "option2" : "Physiology or Medicine",
+        "option3" : "Literature, Peace and Economics", 
+        "option4" : "All of the above", 
+        "answer" : "D"
+    },
+    {
+        "statement" : "Hitler party which came into power in 1933 is known as" ,
+        "option1" : "Labour Party", 
+        "option2" : "Democratic Party",
+        "option3" : "Nazi Party", 
+        "option4" : "Ku-Klux-Klan", 
+        "answer" : "C"
+    },
+    {
+        "statement" : "FFC stands for" ,
+        "option1" : "Film Finance Corporation", 
+        "option2" : "Federation of Football Council",
+        "option3" : "None of the above", 
+        "option4" : "Foreign Finance Corporation", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Epsom (England) is the place associated with" ,
+        "option1" : "Horse racing", 
+        "option2" : "Snooker",
+        "option3" : "Polo", 
+        "option4" : "Shooting", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Habeas Corpus Act 1679" ,
+        "option1" : "safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders", 
+        "option2" : "provided facilities to a prisoner to obtain either speedy trial or release in bail",
+        "option3" : "states that no one was to be imprisoned without a writ or warrant stating the charge against him", 
+        "option4" : "All of the above", 
+        "answer" : "D"
+    },
+    {
+        "statement" : "First Afghan War took place in" ,
+        "option1" : "1833", 
+        "option2" : "1839",
+        "option3" : "1848", 
+        "option4" : "1843", 
+        "answer" : "C"
+    },
+    {
+        "statement" : "For the Olympics and World Tournaments, the dimensions of basketball court are" ,
+        "option1" : "28 m x 16 m", 
+        "option2" : "26 m x 14 m",
+        "option3" : "28 m x 15 m", 
+        "option4" : "27 m x 16 m", 
+        "answer" : "C"
+    },
+    {
+        "statement" : "Each year World Red Cross and Red Crescent Day is celebrated on" ,
+        "option1" : "May 8", 
+        "option2" : "June 8",
+        "option3" : "June 18", 
+        "option4" : "May 18", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Gravity setting chambers are used in industries to remove" ,
+        "option1" : "SOx", 
+        "option2" : "NOx",
+        "option3" : "CO", 
+        "option4" : "suspended particulate matter", 
+        "answer" : "D"
+    },
+    {
+        "statement" : "Guwahati High Court is the judicature of" ,
+        "option1" : "Nagaland", 
+        "option2" : "Arunachal Pradesh",
+        "option3" : "Assam", 
+        "option4" : "All of the above", 
+        "answer" : "D"
+    },
+    {
+        "statement" : "Friction can be reduced by chaning from" ,
+        "option1" : "sliding to rolling", 
+        "option2" : "rolling to sliding",
+        "option3" : "potential energy to kinetic energy", 
+        "option4" : "dynamic to static", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Film and TV institute of India is located at" ,
+        "option1" : "Rajkot", 
+        "option2" : "Pimpri",
+        "option3" : "Pune", 
+        "option4" : "Perambur", 
+        "answer" : "C"
+    },
+    {
+        "statement" : "Germany signed the Armistice Treaty on ____ and World War I ended" ,
+        "option1" : "January 19, 1918", 
+        "option2" : "May 30, 1918",
+        "option3" : "November 11, 1918", 
+        "option4" : "November 11, 1918", 
+        "answer" : "C"
+    },
+    {
+        "statement" : "During World War II, when did Germany attack France?" ,
+        "option1" : "1940", 
+        "option2" : "1940",
+        "option3" : "1940", 
+        "option4" : "1943", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Frederick Sanger is a twice recipient of the Nobel Prize for" ,
+        "option1" : "Chemistry in 1954 and Peace in 1962", 
+        "option2" : "Chemistry in 1958 and 1980",
+        "option3" : "Chemistry in 1954 and Peace in 1962", 
+        "option4" : "Physics in 1956 and 1972", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Eugenics is the study of" ,
+        "option1" : "altering human beings by changing their genertic components", 
+        "option2" : "people of European origin",
+        "option3" : "genetic of plants", 
+        "option4" : "different races of mankind", 
+        "answer" : "A"
+    },
+    {
+        "statement" : "Ecology deals with" ,
+        "option1" : "Relations between organisms and their environments", 
+        "option2" : "Tissues",
+        "option3" : "Birds", 
+        "option4" : "Cell formation", 
+        "answer" : "C"
+    },
+    {
+        "statement" : "Goa Shipyard Limited (GSL) is established in " ,
+        "option1" : "1956", 
+        "option2" : "1957",
+        "option3" : "1958", 
+        "option4" : "1955", 
+        "answer" : "B"
+    },
+    {
+        "statement" : "DRDL stands for" ,
+        "option1" : "Department of Research and Development Laboratory", 
+        "option2" : "Differential Research and Documentations Laboratory",
+        "option3" : "Defence Research and Development Laboratory", 
+        "option4" : "None of the above", 
+        "answer" : "C"
+    }
+]
