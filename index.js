@@ -1,10 +1,12 @@
 const express = require('express') ;
+const cors = require('cors') ;
 const gkque = require('./data/generalknowledge.json') ;
 const bioque = require('./data/biology.json') ;
 const cheque = require('./data/chemistry.json') ;
 const phyque = require('./data/physics.json') ;
 
 const app = express() ;
+app.use(cors()) ;
 
 app.get('/', (req, res) => {
     res.send("hello this is from server") ;
