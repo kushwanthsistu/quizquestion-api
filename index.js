@@ -21,64 +21,24 @@ app.get('/working', (req, res) => {
 app.get('/generalknowledge', (req, res) => {
     const l = gkque.length ;
     let x = findrandom(l) ;
-    if(req.cookies.questionids) {
-        while(req.cookies.questionids.includes(x) && req.cookies.questionids.length < l) {
-            x = findrandom(l) ;
-        }
-        req.cookies.questionids.push(x) ;
-        res.cookie('questionids', req.cookies.questionids) ;
-    }
-    else {
-        res.cookie('questionids', [x]) ;
-    }
     res.json(gkque[x]) ;
 })
 
 app.get('/biology', (req, res) => {
     const l = bioque.length ;
     let x = findrandom(l) ;
-    if(req.cookies.questionids) {
-        while(req.cookies.questionids.includes(x) && req.cookies.questionids.length < l) {
-            x = findrandom(l) ;
-        }
-        req.cookies.questionids.push(x) ;
-        res.cookie('questionids', req.cookies.questionids) ;
-    }
-    else {
-        res.cookie('questionids', [x]) ;
-    }
     res.json(bioque[x]) ;
 })
 
 app.get('/physics', (req, res) => {
     const l = phyque.length ;
     let x = findrandom(l) ;
-    if(req.cookies.questionids) {
-        while(req.cookies.questionids.includes(x) && req.cookies.questionids.length < l) {
-            x = findrandom(l) ;
-        }
-        req.cookies.questionids.push(x) ;
-        res.cookie('questionids', req.cookies.questionids) ;
-    }
-    else {
-        res.cookie('questionids', [x]) ;
-    }
     res.json(phyque[x]) ;
 })
 
 app.get('/chemistry', (req, res) => {
     const l = cheque.length ;
     let x = findrandom(l) ;
-    if(req.cookies.questionids) {
-        while(req.cookies.questionids.includes(x) && req.cookies.questionids.length < l) {
-            x = findrandom(l) ;
-        }
-        req.cookies.questionids.push(x) ;
-        res.cookie('questionids', req.cookies.questionids) ;
-    }
-    else {
-        res.cookie('questionids', [x]) ;
-    }
     res.json(cheque[x]) ;
 })
 
